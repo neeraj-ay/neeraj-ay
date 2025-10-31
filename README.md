@@ -34,7 +34,7 @@
 
 ## Coding Profiles  
 
-- [LeetCode](https://leetcode.com/u/neeraj-ay/)  
+- [LeetCode](https://leetcode.com/u/neeraj_ay/)  
 
 ---
 
