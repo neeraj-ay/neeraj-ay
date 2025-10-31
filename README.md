@@ -31,6 +31,11 @@
 - 📧 Email: [neerajay04@gmail.com](mailto:neerajay04@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/neeraj-ay)
 
+
+## Coding Profiles  
+
+- [LeetCode](https://leetcode.com/u/neeraj-ay/)  
+
 ---
 
 ## ⚡ Fun Stuff
